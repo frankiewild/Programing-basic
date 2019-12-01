@@ -6,8 +6,8 @@ namespace HelloWorld
     {
         static void Main()
         {
-            {       int 
-                Console.WriteLine((5 * 1.8).GetType());
+            {        
+                Console.WriteLine("Hello Soft Uni !");
 
             }
         }
